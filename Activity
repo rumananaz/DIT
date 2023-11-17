@@ -1,0 +1,24 @@
+Report on VCS Research
+
+Introduction
+
+A version control system (VCS) is an essential component in the development of the MusoPlan project at Globex Corporation to enable collaborative and coordinated software development. The VCS used can have a considerable influence on the project's efficiency and maintainability. Following extensive research, the following VCS solutions were considered: Git, Mercurial, and Subversion are all examples of version control systems.
+
+
+
+Various VCS were investigated.
+
+Git
+
+Git is a distributed version control system that is well-known for its speed, flexibility, and branching abilities. It has become an industry standard and is frequently used in a wide range of software projects.
+
+
+Mercurial
+
+Mercurial is yet another distributed version control system with a user-friendly interface and ease of use. It stresses usability and is appropriate for projects of all sizes.
+
+
+
+SVN stands for Subversion.
+
+Subversion is a version control system that is 
